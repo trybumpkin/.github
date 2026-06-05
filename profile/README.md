@@ -21,4 +21,4 @@ Open-source release tooling built around GitHub Actions.
 
 - source and issues: [trybumpkin/bumpkin](https://github.com/trybumpkin/bumpkin)
 - install docs: [trybumpkin/bumpkin-action](https://github.com/trybumpkin/bumpkin-action)
-- Marketplace listing: [Bumpkin Release Action](https://github.com/marketplace/actions/bumpkin-release-action)
+- install from GitHub Marketplace: [Bumpkin Release Action](https://github.com/marketplace/actions/bumpkin-release-action)
