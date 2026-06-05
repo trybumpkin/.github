@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Bumpkin issues
+    url: https://github.com/trybumpkin/bumpkin/issues
+    about: Report bugs, request features, or ask product questions in the main repo.
+  - name: Bumpkin source repo
+    url: https://github.com/trybumpkin/bumpkin
+    about: Use the main repo for source, roadmap, docs, and contribution flow.
