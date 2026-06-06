@@ -7,9 +7,6 @@ Open-source release tooling built around GitHub Actions.
 - [bumpkin](https://github.com/trybumpkin/bumpkin)  
   Main source repo, docs, roadmap, tests, and contributor workflow.
 
-- [bumpkin-action](https://github.com/trybumpkin/bumpkin-action)  
-  Install target for the published GitHub Action.
-
 ## What Bumpkin does
 
 - analyzes merged PRs since the previous tag
@@ -20,5 +17,5 @@ Open-source release tooling built around GitHub Actions.
 ## Where to go
 
 - source and issues: [trybumpkin/bumpkin](https://github.com/trybumpkin/bumpkin)
-- install docs: [trybumpkin/bumpkin-action](https://github.com/trybumpkin/bumpkin-action)
-- install from GitHub Marketplace: [Bumpkin Release Action](https://github.com/marketplace/actions/bumpkin-release-action)
+- install docs: [trybumpkin/bumpkin](https://github.com/trybumpkin/bumpkin)
+- install from GitHub Marketplace: [Bumpkin Release Planner](https://github.com/marketplace/actions/bumpkin-release-planner)
